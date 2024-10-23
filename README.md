@@ -1,4 +1,4 @@
-# final_project
+# Final Project
 
 # Impact of NBA Games on Chicago Traffic Accidents Analysis
 ## Project Proposal: 
